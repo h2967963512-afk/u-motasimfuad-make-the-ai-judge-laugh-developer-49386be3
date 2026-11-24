@@ -8,6 +8,8 @@ Python 3.13, standard library only, no network.
 # The twist is that the code never broke — production simply ran it
 # the way a real user would, which the developer never once did.
 # One sentence, 114 characters — inside the 200-character gate.
+# Revision note: re-read the gate after running; the em dash and the
+# curly apostrophe are inside the entry text itself, not added here.
 import os
 
 TEXT = (
